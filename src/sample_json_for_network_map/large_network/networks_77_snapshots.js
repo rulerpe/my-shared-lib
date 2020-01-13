@@ -1,0 +1,1 @@
+export const snapshots = {"data":[{"id":"10","type":"snapshots","attributes":{"status":"active","metadata":"'Office'","network-id":77,"created-at":"2019-10-28T19:26:57.000Z","updated-at":"2019-10-29T17:44:32.000Z"}}],"meta":{"current-page":1,"next-page":null,"prev-page":null,"total-pages":1,"total-count":1,"filters":{}},"links":{}};
